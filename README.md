@@ -25,7 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-<h2>Connect with me<h2>
+### Connect with me
 [![website](./img/facebook-light.svg)](https://www.facebook.com/khoa.lai208#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/khoa.lai208#gh-dark-mode-only)
 &nbsp;&nbsp;
