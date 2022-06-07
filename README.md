@@ -26,11 +26,8 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-## 🌏 Connect with me
+## 🔌 Connect with me
 [![website](./img/facebook.svg)](https://www.facebook.com/khoa.lai208)
-&nbsp;
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/khoalai208)
-&nbsp;
 [![website](./img/instagram.svg)](https://www.instagram.com/dreamm.08)
-&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UC50L7fGhYYbRh0C1qRl1eng)
