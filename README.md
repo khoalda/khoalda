@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm <a href="https://www.facebook.com/khoa.lai208/">Lai Duc Anh Khoa</a></h2>
 <p>I'm currently a Computer Science student at <strong><a href="https://www.hcmut.edu.vn/vi">HCMUT</a></strong> and a Software Development Fresher at <strong><a href="https://vng.com.vn/">VNG Corporation</a></strong> based in 🌁 Ho Chi Minh City. I am learning a couple of new technologies and working on some side projects.</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
 ## ⚡️ A Few Quick Facts
 <ul>
