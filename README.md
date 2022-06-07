@@ -29,11 +29,8 @@
 ## Connect with me
 [![website](./img/facebook.svg)](https://www.facebook.com/khoa.lai208)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/khoalai208#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khoalai208#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/khoalai208)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dreamm.08#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dreamm.08#gh-dark-mode-only)
+[![website](./img/instagram.svg)](https://www.instagram.com/dreamm.08)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC50L7fGhYYbRh0C1qRl1eng#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC50L7fGhYYbRh0C1qRl1eng#gh-dark-mode-only)
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UC50L7fGhYYbRh0C1qRl1eng)
