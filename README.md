@@ -4,7 +4,7 @@
 
 ## ⚡️ A Few Quick Facts
 <ul>
-<li>🔭 I’m currently working on Fullstack Web Development.</li>
+<li>🔭 I’m currently working on <strong>Fullstack Web Development</strong>.</li>
 <li>🧐 Learning <strong>Golang</strong>, <strong>Beego Framework</strong>, <strong>Angular</strong> and <strong>AI with Python</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/khoalda">Github</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
@@ -26,11 +26,11 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-## Connect with me
+## 🌏 Connect with me
 [![website](./img/facebook.svg)](https://www.facebook.com/khoa.lai208)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/khoalai208)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/instagram.svg)](https://www.instagram.com/dreamm.08)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UC50L7fGhYYbRh0C1qRl1eng)
