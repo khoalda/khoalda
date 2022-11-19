@@ -5,7 +5,6 @@
 ## ⚡️ A Few Quick Facts
 <ul>
 <li>🔭 I’m currently working on <strong>Fullstack Web Development</strong>.</li>
-<li>🧐 Learning <strong>Golang</strong>, <strong>Beego Framework</strong>, <strong>Angular</strong> and <strong>AI with Python</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/khoalda">Github</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
 </ul>
